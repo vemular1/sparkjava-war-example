@@ -1,3 +1,4 @@
+package com.maxo;
 import spark.servlet.SparkApplication;
 
 import static spark.Spark.get;
