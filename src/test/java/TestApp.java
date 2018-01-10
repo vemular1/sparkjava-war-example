@@ -8,8 +8,7 @@ public class TestApp {
     @Test
     public void testhello() {
        HelloWorld hello = new HelloWorld();
-       double amount = account.debit(5
-	   String name="Hello";
+       String name="Hello";
        Assert.assertEquals("Hello", name);
     }
 }
